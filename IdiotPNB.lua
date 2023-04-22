@@ -32,11 +32,11 @@ while true do
 if findItem(farmableid) <= 10 then 
     findPath(farmablekonumx , farmablekonumy)
     sleep(1000)
-    collect(2)
+    collect(1)
     sleep(1000)
-    findPath(kirmakonumx, kirmakonumy)
+    findPath(kirmabotkonumx, kirmabotkonumy)
 else
-    findPath(kirmakonumx, kirmakonumy)
+    findPath(kirmabotkonumx, kirmabotkonumy)
 end
     sleep(200)
 if findItem(seedid) >= 190 then
@@ -44,9 +44,9 @@ if findItem(seedid) >= 190 then
     sleep(1000)
     drop(seedid)
     sleep(1000)
-    findPath(kirmakonumx, kirmakonumy)
+    findPath(kirmabotkonumx, kirmabotkonumy)
 else
-    findPath(kirmakonumx, kirmakonumy)
+    findPath(kirmabotkonumx, kirmabotkonumy)
 end
     sleep(200)
     blokkoy()
@@ -55,5 +55,6 @@ end
     sleep(200)
     collect(1)
 end
+
 
 
