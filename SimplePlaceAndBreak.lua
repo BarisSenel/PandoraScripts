@@ -1,12 +1,12 @@
 
-farmablekonumx = 36  - 1
-farmablekonumy = 24 - 1
+farmableposx = 36  - 1
+farmableposy = 24 - 1
 farmableid = 4584
 seedid = 4585
-seeddropkonumx = 36 - 1
-seeddropkonumy = 22 - 1
-kirmabotkonumx = 40 - 1
-kirmabotkonumy = 22 - 1
+seeddropposx = 36 - 1
+seeddropposy = 22 - 1
+breakbotposx = 40 - 1
+breakbotposy = 22 - 1
 
 
 function blokkir()
@@ -30,23 +30,23 @@ end
 
 while true do
 if findItem(farmableid) <= 10 then 
-    findPath(farmablekonumx , farmablekonumy)
+    findPath(farmableposx , farmableposy)
     sleep(1000)
     collect(1)
     sleep(1000)
-    findPath(kirmabotkonumx, kirmabotkonumy)
+    findPath(breakbotposx, breakbotposy)
 else
-    findPath(kirmabotkonumx, kirmabotkonumy)
+    findPath(breakbotposx, breakbotposy)
 end
     sleep(200)
 if findItem(seedid) >= 190 then
-    findPath(seeddropkonumx, seeddropkonumy)
+    findPath(seeddropposx, seeddropposy)
     sleep(1000)
     drop(seedid)
     sleep(1000)
-    findPath(kirmabotkonumx, kirmabotkonumy)
+    findPath(breakbotposx, breakbotposy)
 else
-    findPath(kirmabotkonumx, kirmabotkonumy)
+    findPath(breakbotposx, breakbotposy)
 end
     sleep(200)
     blokkoy()
