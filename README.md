@@ -1,3 +1,4 @@
-# PandoraScripts
-
-showcase soon
+- Well if you come to this place you probably broke    :skull:
+- Don't want to pay 5-10 Diamond Locks to someone to buy a scripts  :clown_face:
+- but don't forget these scripts is TRASHHH :shit:
+- The boy who wrote this code went blind! :trollface:
