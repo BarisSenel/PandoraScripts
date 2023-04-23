@@ -4,5 +4,7 @@
 - The boy who wrote this code went blind! :trollface:
 
 
-Are you too stupid to understand how to run a code? PERFECT ! Here is the Spam Script show case
+Are you too idiot to understand how to run a code? PERFECT ! Here is the Spam Script show case
 [![SCRIPTSHOWCASEFORIDIOTS](https://img.youtube.com/vi/sNzVXwApfDk/0.jpg)](https://www.youtube.com/watch?v=sNzVXwApfDk)
+
+CLICK IT 💀
