@@ -1,5 +1,5 @@
   Scripts for Growtopia game botting software, called Pandora 
-  aknull.com
+ 
 
 - Well if you come to this place you probably broke    :skull:
 - Don't want to pay 5-10 Diamond Locks to someone to buy a scripts  :clown_face:
