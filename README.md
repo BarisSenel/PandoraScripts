@@ -1,4 +1,4 @@
-  Scripts for Growtopia automation software called Pandora
+  Scripts for Growtopia game botting software, called Pandora 
   aknull.com
 
 - Well if you come to this place you probably broke    :skull:
